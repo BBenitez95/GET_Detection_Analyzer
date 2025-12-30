@@ -1,6 +1,13 @@
 # GET Detection Analyzer
 
-Automated detection of respiratory thresholds during graded exercise testing.
+**Version 1.0**  
+**Author:** Brian Benitez  
+**GitHub:** https://github.com/BBenitez95
+
+![R](https://img.shields.io/badge/R-4.0%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+---
 
 ## Overview
 
